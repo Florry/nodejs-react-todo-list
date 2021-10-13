@@ -1,0 +1,1 @@
+export const REFERENCE_ID_LOCAL_STORAGE_KEY = "referenceId";
