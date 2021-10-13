@@ -40,6 +40,6 @@ run:
 
 	npm install
 	export CI=1
-	export LOG_LEVEL=silly (optional)
+	export LOG_LEVEL=silly // optional
 	npm test
-	open ./coverage/index.html to see test coverage
+	open ./coverage/index.html // to see test coverage
